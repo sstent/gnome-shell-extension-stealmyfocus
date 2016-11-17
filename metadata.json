@@ -16,7 +16,8 @@
                 "3.18",
                 "3.19",
                 "3.20",
-                "3.21"
+                "3.21",
+                "3.22"
 	],
 	"url": "https://github.com/sstent/gnome-shell-extension-stealfocus",
         "uuid": "steal-my-focus@kagesenshi.org",
